@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/don_ejeh" target="blank"><img src="https://img.shields.io/twitter/follow/don_ejeh?logo=twitter&style=for-the-badge" alt="don_ejeh" /></a> </p>
 
-- 🔭 I’m currently working on [ERP SYSTEM WITH PAYMENT GATWAY PROCESSOR](https://sigmapays.com/)
+- 🔭 I’m currently working on [ERP SYSTEM WITH PAYMENT GATEWAY PROCESSOR](https://sigmapays.com/)
 
 - 🌱 I’m currently learning **REACTjs , FLUTTER**
 
