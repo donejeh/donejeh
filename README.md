@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/don_ejeh" target="blank"><img src="https://img.shields.io/twitter/follow/don_ejeh?logo=twitter&style=for-the-badge" alt="don_ejeh" /></a> </p>
 
 - 🔭 I’m currently working on [ERP SYSTEM WITH PAYMENT GATEWAY PROCESSOR](https://sigmapays.com/)
-- 🔭 Senior Backend developer [Bourse-Echange, the # 1 Platform for Exchange in Haiti]([https://sigmapays.com/](https://bourseechange.net/))
+- 🔭 Senior Backend developer [Bourse-Echange, the # 1 Platform for Exchange in Haiti](https://bourseechange.net/)
 - 🌱 I’m currently learning **REACTjs , FLUTTER**
 
 - 👨‍💻 All of my projects are available at [https://donejeh.xyz/projects.html](https://donejeh.xyz/projects.html)
