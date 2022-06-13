@@ -1,12 +1,12 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://donejeh.xyz)
-<h1 align="center">Hi 👋, I'm Innocen Ejeh</h1>
+<h1 align="center">Hi 👋, I'm Innocent Ejeh</h1>
 <h3 align="center">LAMP Stack Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donejeh&label=Profile%20views&color=0e75b6&style=flat" alt="donejeh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/don_ejeh" target="blank"><img src="https://img.shields.io/twitter/follow/don_ejeh?logo=twitter&style=for-the-badge" alt="don_ejeh" /></a> </p>
 
 - 🔭 I’m currently working on [ERP SYSTEM WITH PAYMENT GATEWAY PROCESSOR](https://sigmapays.com/)
-
+- 🔭 Senior Backend developer [Bourse-Echange, the # 1 Platform for Exchange in Haiti]([https://sigmapays.com/](https://bourseechange.net/))
 - 🌱 I’m currently learning **REACTjs , FLUTTER**
 
 - 👨‍💻 All of my projects are available at [https://donejeh.xyz/projects.html](https://donejeh.xyz/projects.html)
