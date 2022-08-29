@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://donejeh.xyz)
-<h1 align="center">Hi 👋, I'm Innocent Ejeh</h1>
-<h2 align="center"> A Software Engineer.</h2>
+<h1 align="center">Hi 👋,</h1>
+<h2 align="center"> I write some Code.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donejeh&label=Profile%20views&color=0e75b6&style=flat" alt="donejeh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/don_ejeh" target="blank"><img src="https://img.shields.io/twitter/follow/don_ejeh?logo=twitter&style=for-the-badge" alt="don_ejeh" /></a> </p>
