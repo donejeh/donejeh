@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Common mistake] Sharing session across multiple Laravel subdomain](https://dev.to/donejeh/common-mistake-sharing-session-across-multiple-laravel-subdomain-2a51)
 - [[Common mistake] Sharing session across multiple Laravel subdomain](https://donejeh.medium.com/common-mistake-sharing-session-across-multiple-laravel-subdomain-a396dc758c4d?source=rss-413c7b7400ae------2)
-- [Improve performance by deleting laravel log file via Routes. &lpar;Artisan &amp; exec&rpar;](https://donejeh.medium.com/improve-performance-by-deleting-laravel-log-file-via-routes-artisan-exec-d18076470ca6?source=rss-413c7b7400ae------2)
-- [How to access your laragon local projects using Android phone](https://donejeh.medium.com/how-to-access-your-laragon-local-projects-using-android-phone-8cd84b6c6c80?source=rss-413c7b7400ae------2)
-- [How to create your own alias for “php artisan” command on cmder](https://donejeh.medium.com/how-to-create-your-own-alias-for-php-artisan-command-on-cmder-4c2e61c5ffb8?source=rss-413c7b7400ae------2)
+- [Webhook on localhost serve using Laragon](https://dev.to/donejeh/webhook-on-localhost-serve-using-laragon-429g)
+- [Improve performance by deleting laravel log file via Routes. &lpar;Artisan &amp; exec&rpar;](https://dev.to/donejeh/improve-performance-by-deleting-laravel-log-file-via-routes-artisan-exec-1pe6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
