@@ -10,11 +10,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Answer by Ejeh for VSCode not opening in WSL from WSL terminal](https://stackoverflow.com/questions/75929012/vscode-not-opening-in-wsl-from-wsl-terminal/76514219#76514219)
 - [Config ffmjpeg for video manipulation on any Laravel project](https://dev.to/donejeh/config-ffmjpeg-for-video-manipulation-on-any-laravel-project-5172)
 - [FFMJPEG on windows for video manipulation, Php/Laravel Journey [Part 1]](https://dev.to/donejeh/ffmjpeg-on-windows-for-video-manipulation-phplaravel-journey-part-1-31ce)
 - [Answer by Ejeh for How do you change the value inside of a textfield flutter?](https://stackoverflow.com/questions/51127241/how-do-you-change-the-value-inside-of-a-textfield-flutter/75417637#75417637)
 - [Answer by Ejeh for Exception has occurred. FormatException &lpar;FormatException: Unexpected character &lpar;at character 1&rpar; &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; ^ &rpar;](https://stackoverflow.com/questions/57550605/exception-has-occurred-formatexception-formatexception-unexpected-character/75417584#75417584)
-- [Answer by Ejeh for Sending POST parameters with Postman doesn&#39;t work, but sending GET parameters does](https://stackoverflow.com/questions/24168759/sending-post-parameters-with-postman-doesnt-work-but-sending-get-parameters-do/75330004#75330004)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
