@@ -13,8 +13,8 @@
 - [Answer by Ejeh for Laravel unable to load FFProbe?](https://stackoverflow.com/questions/29916963/laravel-unable-to-load-ffprobe/77202197#77202197)
 - [Answer by Ejeh for How can I call from my frontend docker nginx to my backend in nodeJs docker with docker swarmn](https://stackoverflow.com/questions/63437916/how-can-i-call-from-my-frontend-docker-nginx-to-my-backend-in-nodejs-docker-with/77166787#77166787)
 - [Easy way to clone public/private repo on android device via SSH](https://dev.to/donejeh/easy-way-to-clone-publicprivate-repo-on-android-device-via-ssh-3mh7)
-- [Answer by Ejeh for phpMyAdmin EXTREMELY slow when loading innoDB database main page](https://stackoverflow.com/questions/21325229/phpmyadmin-extremely-slow-when-loading-innodb-database-main-page/76828658#76828658)
 - [Answer by Ejeh for VSCode not opening in WSL from WSL terminal](https://stackoverflow.com/questions/75929012/vscode-not-opening-in-wsl-from-wsl-terminal/76514219#76514219)
+- [Config ffmjpeg for video manipulation on any Laravel project](https://dev.to/donejeh/config-ffmjpeg-for-video-manipulation-on-any-laravel-project-5172)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
