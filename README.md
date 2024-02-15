@@ -10,11 +10,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Answer by Ejeh for docker image build &quot;context canceled&quot; error on windows 10](https://stackoverflow.com/questions/65245078/docker-image-build-context-canceled-error-on-windows-10/77769118#77769118)
-- [Answer by Ejeh for Laravel unable to load FFProbe?](https://stackoverflow.com/questions/29916963/laravel-unable-to-load-ffprobe/77202197#77202197)
-- [Answer by Ejeh for How can I call from my frontend docker nginx to my backend in nodeJs docker with docker swarmn](https://stackoverflow.com/questions/63437916/how-can-i-call-from-my-frontend-docker-nginx-to-my-backend-in-nodejs-docker-with/77166787#77166787)
 - [Easy way to clone public/private repo on android device via SSH](https://dev.to/donejeh/easy-way-to-clone-publicprivate-repo-on-android-device-via-ssh-3mh7)
-- [Answer by Ejeh for VSCode not opening in WSL from WSL terminal](https://stackoverflow.com/questions/75929012/vscode-not-opening-in-wsl-from-wsl-terminal/76514219#76514219)
+- [Config ffmjpeg for video manipulation on any Laravel project](https://dev.to/donejeh/config-ffmjpeg-for-video-manipulation-on-any-laravel-project-5172)
+- [FFMJPEG on windows for video manipulation, Php/Laravel Journey [Part 1]](https://dev.to/donejeh/ffmjpeg-on-windows-for-video-manipulation-phplaravel-journey-part-1-31ce)
+- [[Common mistake] Sharing session across multiple Laravel subdomain](https://dev.to/donejeh/common-mistake-sharing-session-across-multiple-laravel-subdomain-2a51)
+- [[Common mistake] Sharing session across multiple Laravel subdomain](https://donejeh.medium.com/common-mistake-sharing-session-across-multiple-laravel-subdomain-a396dc758c4d?source=rss-413c7b7400ae------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
