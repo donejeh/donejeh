@@ -14,7 +14,7 @@
 - [Config ffmjpeg for video manipulation on any Laravel project](https://dev.to/donejeh/config-ffmjpeg-for-video-manipulation-on-any-laravel-project-5172)
 - [FFMJPEG on windows for video manipulation, Php/Laravel Journey [Part 1]](https://dev.to/donejeh/ffmjpeg-on-windows-for-video-manipulation-phplaravel-journey-part-1-31ce)
 - [[Common mistake] Sharing session across multiple Laravel subdomain](https://dev.to/donejeh/common-mistake-sharing-session-across-multiple-laravel-subdomain-2a51)
-- [Test Webhook on localhost serve using Laragon](https://dev.to/donejeh/webhook-on-localhost-serve-using-laragon-429g)
+- [[Common mistake] Sharing session across multiple Laravel subdomain](https://donejeh.medium.com/common-mistake-sharing-session-across-multiple-laravel-subdomain-a396dc758c4d?source=rss-413c7b7400ae------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
